@@ -38,3 +38,6 @@ def movies (request):
 
 def home(request):
     return HttpResponse('Home  Page')
+
+
+#.\\.venv\Scripts\activate.bat
